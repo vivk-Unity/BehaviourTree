@@ -1,0 +1,25 @@
+Label {
+    border-top-width: 1px;
+    border-top-color: rgb(26, 26, 26);
+    background-color: rgba(62, 62, 62, 255);
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(48, 48, 48);
+    border-bottom-width: 1px;
+    -unity-font-style: bold;
+    padding: 3px 4px;
+}
+
+IMGUIContainer {
+    background-color: rgba(56, 56, 56, 255);
+    border-bottom-width: 1px;
+    margin: 2px;
+    margin-bottom: 0;
+    padding: 2px;
+    padding-bottom: 1px;
+}
+
+ScrollView {
+    border-bottom-color: rgb(26, 26, 26);
+    border-bottom-width: 1px;
+}
